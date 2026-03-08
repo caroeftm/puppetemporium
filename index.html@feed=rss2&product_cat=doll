@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>doll &#8211; Puppet Emporium</title>
+	<atom:link href="https://temp.puppetemporium.com/?feed=rss2&#038;product_cat=doll" rel="self" type="application/rss+xml" />
+	<link>https://temp.puppetemporium.com</link>
+	<description>Rare and mysterious doll collections</description>
+	<lastBuildDate>Fri, 21 Mar 2025 20:01:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.9.1</generator>
+
+<image>
+	<url>https://temp.puppetemporium.com/wp-content/uploads/2025/03/puppet-emporium-100x100.png</url>
+	<title>doll &#8211; Puppet Emporium</title>
+	<link>https://temp.puppetemporium.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Rare Rag Doll &#8211; Bonnie Bloom</title>
+		<link>https://temp.puppetemporium.com/?product=rare-rag-doll-bonnie-bloom</link>
+					<comments>https://temp.puppetemporium.com/?product=rare-rag-doll-bonnie-bloom#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 21 Mar 2025 16:24:07 +0000</pubDate>
+				<guid isPermaLink="false">https://www.puppetemporium.com/?post_type=product&#038;p=54</guid>
+
+					<description><![CDATA[<p data-start="115" data-end="537">Meet Bonnie Bloom, the perfect blend of wholesome charm and inexplicable mystery. With her cheerful embroidered smile and luxuriously thick yarn hair, Rosie is the perfect addition to any collection. Dressed in an adorable vintage-inspired outfit with delicate floral embroidery, she looks like she just stepped out of a storybook or perhaps a forgotten attic.</p>
+<p data-start="539" data-end="935">Features:</p>
+<p data-start="539" data-end="935">Handmade Craftsmanship - Unlike today’s mass-produced dolls, Bonnie Bloom was carefully stitched with old-world precision, making each one unique.</p>
+<p data-start="539" data-end="935">Authentic Vintage Fabrics - Her lace-trimmed dress and gingham bloomers reflect a bygone era when dolls were crafted with care.</p>
+<p data-start="1046" data-end="1247">Warning:<br data-start="1058" data-end="1061" />Returns not accepted once she bonds with you.</p>]]></description>
+										<content:encoded><![CDATA[<p data-start="115" data-end="537">Meet Bonnie Bloom, the perfect blend of wholesome charm and inexplicable mystery. With her cheerful embroidered smile and luxuriously thick yarn hair, Rosie is the perfect addition to any collection. Dressed in an adorable vintage-inspired outfit with delicate floral embroidery, she looks like she just stepped out of a storybook or perhaps a forgotten attic.</p>
+<p data-start="539" data-end="935">Features:</p>
+<p data-start="539" data-end="935">Handmade Craftsmanship &#8211; Unlike today’s mass-produced dolls, Bonnie Bloom was carefully stitched with old-world precision, making each one unique.</p>
+<p data-start="539" data-end="935">Authentic Vintage Fabrics &#8211; Her lace-trimmed dress and gingham bloomers reflect a bygone era when dolls were crafted with care.</p>
+<p data-start="1046" data-end="1247">Warning:<br data-start="1058" data-end="1061" />Returns not accepted once she bonds with you.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://temp.puppetemporium.com/?feed=rss2&#038;p=54</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

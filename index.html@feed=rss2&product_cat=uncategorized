@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Puppet Emporium</title>
+	<atom:link href="https://temp.puppetemporium.com/?feed=rss2&#038;product_cat=uncategorized" rel="self" type="application/rss+xml" />
+	<link>https://temp.puppetemporium.com</link>
+	<description>Rare and mysterious doll collections</description>
+	<lastBuildDate>Thu, 20 Mar 2025 18:28:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.9.1</generator>
+
+<image>
+	<url>https://temp.puppetemporium.com/wp-content/uploads/2025/03/puppet-emporium-100x100.png</url>
+	<title>Uncategorized &#8211; Puppet Emporium</title>
+	<link>https://temp.puppetemporium.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Antique French Porcelain Doll – Germaine</title>
+		<link>https://temp.puppetemporium.com/?product=antique-french-porcelain-doll-germaine</link>
+					<comments>https://temp.puppetemporium.com/?product=antique-french-porcelain-doll-germaine#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 20 Mar 2025 18:28:42 +0000</pubDate>
+				<guid isPermaLink="false">https://www.puppetemporium.com/?post_type=product&#038;p=35</guid>
+
+					<description><![CDATA[Germaine, an exquisite vintage porcelain doll from France, captures the essence of timeless elegance. Dressed in a delicate light blue [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Germaine, an exquisite vintage porcelain doll from France, captures the essence of timeless elegance. Dressed in a delicate light blue gown adorned with intricate lace trim, she is a stunning representation of French craftsmanship. What makes Germaine truly unique is the use of a special firing technique known as “Lumière de Nuit,” a method developed by French artisans to achieve a soft, ethereal glow in the porcelain. Germaine is one of less than 50 known dolls made using this technique, making her a rare and highly sought-after collectible.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://temp.puppetemporium.com/?feed=rss2&#038;p=35</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

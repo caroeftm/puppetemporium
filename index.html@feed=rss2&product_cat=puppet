@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>puppet &#8211; Puppet Emporium</title>
+	<atom:link href="https://temp.puppetemporium.com/?feed=rss2&#038;product_cat=puppet" rel="self" type="application/rss+xml" />
+	<link>https://temp.puppetemporium.com</link>
+	<description>Rare and mysterious doll collections</description>
+	<lastBuildDate>Fri, 21 Mar 2025 20:16:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.9.1</generator>
+
+<image>
+	<url>https://temp.puppetemporium.com/wp-content/uploads/2025/03/puppet-emporium-100x100.png</url>
+	<title>puppet &#8211; Puppet Emporium</title>
+	<link>https://temp.puppetemporium.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Antique Scottish Marionette &#8211; Barnaby the Wanderer</title>
+		<link>https://temp.puppetemporium.com/?product=antique-scottish-marionette-barnaby-the-wanderer</link>
+					<comments>https://temp.puppetemporium.com/?product=antique-scottish-marionette-barnaby-the-wanderer#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 21 Mar 2025 20:15:58 +0000</pubDate>
+				<guid isPermaLink="false">https://www.puppetemporium.com/?post_type=product&#038;p=72</guid>
+
+					<description><![CDATA[Straight from the misty highlands of Scotland, Barnaby the Wanderer is a handcrafted vintage marionette with a past as murky [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p data-start="174" data-end="777">Straight from the misty highlands of Scotland, Barnaby the Wanderer is a handcrafted vintage marionette with a past as murky as the lochs themselves. Originally crafted by an unknown Scottish puppeteer in the late 19th century, Barnaby was once part of a travelling puppet show that performed in small villages, roadside inns, and private parlors across the country. According to legend, the show mysteriously disbanded one evening, leaving behind only Barnaby, sitting alone in an empty theater.</p>
+<p data-start="779" data-end="1044">For over a century, he has appeared in estate sales and antique shops with no clear record of how he got there.</p>
+<p data-start="779" data-end="1044"><strong>Key Features:</strong></p>
+<p data-start="779" data-end="1044">Handcrafted Scottish Origin &#8211; Meticulously carved wooden face and authentic vintage Highland stitching.</p>
+<p data-start="779" data-end="1044">Rich Folklore History – Part of an infamous 19th-century marionette troupe that vanished without explanation.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://temp.puppetemporium.com/?feed=rss2&#038;p=72</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
