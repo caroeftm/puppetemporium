@@ -326,6 +326,18 @@ var woocommerce_params = {"ajax_url":"/wp-admin/admin-ajax.php","wc_ajax_url":"/
 <link rel="icon" href="/wp-content/uploads/2025/03/puppet-emporium-300x300.png" sizes="192x192" />
 <link rel="apple-touch-icon" href="/wp-content/uploads/2025/03/puppet-emporium-300x300.png" />
 <meta name="msapplication-TileImage" content="https://puppetemporium.com/wp-content/uploads/2025/03/puppet-emporium-300x300.png" />
+<style>
+/* Break hero out of ast-container to full viewport width */
+#content > div > div > div > div > div:nth-child(2) {
+    width: 100vw !important;
+    max-width: 100vw !important;
+    margin-left: calc(50% - 50vw) !important;
+    margin-right: calc(50% - 50vw) !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    box-sizing: border-box;
+}
+</style>
 </head>
 
 <body itemtype='https://schema.org/WebPage' itemscope='itemscope' class="home wp-singular page-template page-template-elementor_header_footer page page-id-24 wp-custom-logo wp-embed-responsive wp-theme-astra theme-astra woocommerce-no-js ast-desktop astra-dark-mode-enable ast-plain-container ast-no-sidebar astra-4.12.3 ast-single-post ast-inherit-site-logo-transparent ast-hfb-header ast-normal-title-enabled elementor-default elementor-template-full-width elementor-kit-85 elementor-page elementor-page-24">
